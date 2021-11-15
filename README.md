@@ -1,5 +1,5 @@
 Hello, my name is Yunus.
 
 I'm a freelance web developer.
-<img width="50%" align="right" src="https://camo.githubusercontent.com/13256f58554a26f4d73b8eb452834ffcd786c63b2e62755bafee7e428052ca8b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d656767737926636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=yemrefindik1&amp;count_private=true&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=true" style="max-width: 100%;">
+
 <img width="50%" align="right" src="https://camo.githubusercontent.com/b921dfbadf218e5fc084ffd207a3228edc0e36bae2693f31f3db97dd7862b5ef/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6567677379267468656d653d6461726b26686964655f626f726465723d74727565266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemrefindik1&amp;theme=dark&amp;hide_border=true&amp;layout=compact" style="max-width: 100%;">
